@@ -1,1 +1,1 @@
-Spiritual miracle individual
+Just a test
