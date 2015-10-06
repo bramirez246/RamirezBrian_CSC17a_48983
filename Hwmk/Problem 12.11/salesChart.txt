@@ -1,0 +1,5 @@
+North                              South                               East                               West
+Quarter 1 sales: 6516        Quarter 1 sales: 6541        Quarter 1 sales: 481        Quarter 1 sales: 5461
+Quarter 2 sales: 36161        Quarter 2 sales: 64914        Quarter 2 sales: 661        Quarter 2 sales: 6161
+Quarter 3 sales: 65416        Quarter 3 sales: 694849        Quarter 3 sales: 6511        Quarter 3 sales: 6461
+Quarter 4 sales: 6561        Quarter 4 sales: 6541        Quarter 4 sales: 6461        Quarter 4 sales: 4161
