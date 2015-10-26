@@ -1,0 +1,9 @@
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------
+1001     Jim Halpert              $    15.50
+1007     Pete McBride             $    500.32
+1010     Pam Beesly               $    1323.34
+1008     Michael Scott            $    32.36
+1009     Lisa Covi                $    332.36
+1003     Dwight Schrute           $    12.32
+             Average Balance Due: $   369.36
